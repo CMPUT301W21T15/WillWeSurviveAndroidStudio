@@ -1,8 +1,6 @@
 package com.example.willwesuriveandroidstudio;
 
-public abstract class Shape {
+public class Square extends Shape {
   int x;
   int y;
-  String color = "black";
-  
 }
