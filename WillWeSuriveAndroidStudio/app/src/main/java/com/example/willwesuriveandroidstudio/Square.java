@@ -1,6 +1,6 @@
 package com.example.willwesuriveandroidstudio;
 
-public abstract class Shape {
+public class Square extends shape {
     int x;
     int y;
 }
