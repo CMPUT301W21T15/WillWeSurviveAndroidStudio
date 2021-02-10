@@ -1,6 +1,4 @@
 package com.example.willwesuriveandroidstudio;
 
-public abstract class Shape {
-  int x;
-  int y;
+public class Hexagon extends Shape{
 }
