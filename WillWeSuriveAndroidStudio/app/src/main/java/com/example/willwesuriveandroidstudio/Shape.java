@@ -3,6 +3,6 @@ package com.example.willwesuriveandroidstudio;
 public abstract class Shape {
   int x;
   int y;
-  string color = "orange";
+  String color = "black";
   
 }
